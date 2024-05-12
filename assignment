@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Practice </title>
+</head>
+<body>
+    <img 
+    src="./IMG_0280.JPG" 
+    alt="me"
+    height="250px">
+    <h1> Hi everybody </h1>
+    <p> hope you enjoy your day</p>
+    <a href="https://www.youtube.com/watch?v=SKRydSA2bYA">
+    the video i am currently watching </a>
+    <a href="./additional.html"
+    target="_blank"> 
+    and my extra file </a>
+    <h2> my brother and sister</h2>
+    <ul>
+        <li> 
+            <a href="https://www.google.com/imgres?q=sun&imgurl=https%3A%2F%2Fscience.nasa.gov%2Fwp-content%2Fuploads%2F2023%2F05%2Fsun-cartoon-crop.png%3Fw%3D4096%26format%3Dpng%26crop%3D1&imgrefurl=https%3A%2F%2Fscience.nasa.gov%2Fsun%2F&docid=Zl6xP59-4kmrVM&tbnid=sjY1q0zyPer3hM&vet=12ahUKEwjUgICV2oiGAxVcDRAIHQitBjQQM3oECBMQAA..i&w=600&h=600&hcb=2&itg=1&ved=2ahUKEwjUgICV2oiGAxVcDRAIHQitBjQQM3oECBMQAA">
+            my sister</a>
+        </li>
+        <li> 
+            <a href="https://www.google.com/imgres?q=cute%20rabit&imgurl=https%3A%2F%2Foshiprint.in%2Fimage%2Fcache%2Fcatalog%2Fposter%2Fnew%2Fmqp889-1100x733.jpeg.webp&imgrefurl=https%3A%2F%2Foshiprint.in%2Fposters%2Fanimals%2Fcute-rabbit&docid=qbeRLUoE85eACM&tbnid=cdmvV6fTpgveVM&vet=12ahUKEwjHuPXY2oiGAxVpQVUIHVgPCa4QM3oECCIQAA..i&w=1100&h=733&hcb=2&ved=2ahUKEwjHuPXY2oiGAxVpQVUIHVgPCa4QM3oECCIQAA">
+            my brother</a> 
+        </li>
+    </ul>
+</body>
+</html>
